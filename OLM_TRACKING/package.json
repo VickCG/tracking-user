@@ -1,0 +1,25 @@
+{
+  "name": "hocmai_tool_git",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "tracking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://VickNguyen@bitbucket.org/VickNguyen/hocmai_tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/VickNguyen/hocmai_tool#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "mobile-detect": "^1.4.3",
+    "moment": "^2.23.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.27",
+    "@types/node": "^10.12.18"
+  }
+}
