@@ -5,12 +5,12 @@ DESCRIPTION
 ====================================
 Javascript library to collect contact from landingpage
 
-TESTING
+# TESTING
 ====================================
- * Requirement:
+ ## Requirement:
   - NodeJs >= 8.x.x
 
- * Running locally:
+ ## Running locally:
   Step 1: Go to project source.
   Step 2: install node module by command: npm install.
   Step 3: Install typescript to compile typescript to javascript file. npm install -g typescript
