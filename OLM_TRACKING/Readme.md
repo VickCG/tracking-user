@@ -1,5 +1,3 @@
-
-
 ### DESCRIPTION
 Javascript library to collect contact from landingpage
 
